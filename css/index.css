@@ -1,0 +1,24 @@
+.task {
+    width: 80%;
+    margin: 3% auto;
+}
+
+.task__title,
+.task__subtitle {
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.task__title {
+    color: rgb(162, 162, 162);
+}
+
+.task__subtitle {
+    color: rgb(97, 97, 97);
+    margin-bottom: 1%;
+}
+
+.task__content {
+    text-align: center;
+    font-size: 1.5rem;
+}
